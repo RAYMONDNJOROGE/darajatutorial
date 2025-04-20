@@ -5,7 +5,7 @@ if(isset($_POST['submit'])){
   date_default_timezone_set('Africa/Nairobi');
 
   # access token
-  $consumerKey = 'nk16Y74eSbTaGQgc9WF8j6FigApqOMWr'; //Fill with your app Consumer Key
+  $consumerKey = 'nk16Y74eSbTaGQgc9WF8j6FigApqOMW'; //Fill with your app Consumer Key
   $consumerSecret = '40fD1vRXCq90XFaU'; // Fill with your app Secret
 
   # define the variales
